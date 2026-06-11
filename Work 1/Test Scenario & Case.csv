@@ -1,0 +1,43 @@
+Work 1,Reg: 2023822017,Name: Md Shahidul Alam,,16 features,,,
+,,,,,,,
+Test scenario:,Swag Labs (www.saucedemo.com) Login,,,,,,
+Test ID,Precondition,Steps to execute,Test Name,Test Data,Expected Results,Actual Results,Status
+T01,www.saucedemo.com Page is loded,1. Navigate to the application www.saucedemo.com,Login with valid username &  Password,Accepted usernames are:,,,
+,,2. Enter Username & Password,,standard_user,User can login into system,can login,Pass
+,,3. Click on the Login button,,locked_out_user,User can login into system,can not login,Fail
+,,,,problem_user,User can login into system,can login,Pass
+,,,,performance_glitch_user,User can login into system,can login,Pass
+,,,,error_user,User can login into system,can login,Pass
+,,,,visual_user,User can login into system,can login,Pass
+,,,,Password for all users:,,,
+,,,,secret_sauce,,,
+T02,www.saucedemo.com Page is loded,1. Navigate to the application www.saucedemo.com,Login with valid username & invalid Password,Accepted usernames are:,,,
+,,2. Enter Username & Password,,standard_user,User can not login into system,can not login,Fail
+,,3. Click on the Login button,,locked_out_user,User can not login into system,can not login,Fail
+,,,,problem_user,User can not login into system,can not login,Fail
+,,,,performance_glitch_user,User can not login into system,can not login,Fail
+,,,,error_user,User can not login into system,can not login,Fail
+,,,,visual_user,User can not login into system,can not login,Fail
+,,,,Password for all users:,,,
+,,,,invalid password,,,
+T03,www.saucedemo.com Page is loded,1. Navigate to the application www.saucedemo.com,Login with invalid username & valid Password,Invalid username,User can not login into system,can not login,Fail
+,,2. Enter Username & Password,,Password for all users:,,,
+,,3. Click on the Login button,,secret_sauce,,,
+T04,www.saucedemo.com Page is loded,1. Navigate to the application www.saucedemo.com,Login with invalid username & invalid Password,Invalid username & password,User can not login into system,can not login,Fail
+,,2. Enter Username & Password,,,,,
+,,3. Click on the Login button,,,,,
+T05,www.saucedemo.com Page is loded,1. Navigate to the application www.saucedemo.com,Login with empty username & invalid Password,Empty username & invalid Password,User can not login into system,can not login,Fail
+,,2. Enter Password,,,,,
+,,3. Click on the Login button,,,,,
+T06,www.saucedemo.com Page is loded,1. Navigate to the application www.saucedemo.com,Login with empty username & valid Password,Empty username,User can not login into system,can not login,Fail
+,,2. Enter Password,,Password for all users:,,,
+,,3. Click on the Login button,,secret_sauce,,,
+T07,www.saucedemo.com Page is loded,1. Navigate to the application www.saucedemo.com,Login with empty username & empty Password,Empty username & empty Password,User can not login into system,can not login,Fail
+,,2. Enter Username & Password,,,,,
+,,3. Click on the Login button,,,,,
+T08,www.saucedemo.com Page is loded,1. Navigate to the application www.saucedemo.com,Login with invalid username & empty Password,Invalid username & empty Password,User can not login into system,can not login,Fail
+,,2. Enter Username,,,,,
+,,3. Click on the Login button,,,,,
+T09,www.saucedemo.com Page is loded,1. Navigate to the application www.saucedemo.com,Login with valid username & empty Password,Valid username & empty Password,User can not login into system,can not login,Fail
+,,2. Enter Username,,,,,
+,,3. Click on the Login button,,,,,
