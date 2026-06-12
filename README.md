@@ -30,8 +30,12 @@
 * **Automation:** Generative AI-based tools like **TestRigor**.
 * **Documentation:** Structured PDF Reporting & Excel**.**
 
-[![Watch the video](https://youtu.be/-k8ITGoXQy0)
-
+[![Watch the video](https://youtu.be/-k8ITGoXQy0)]
+<p align="center">
+  <a href="https://youtu.be/-k8ITGoXQy0">
+    <img src="https://drive.google.com/file/d/1Nfkp8MfjhuFtPRaIeC7mX1Zc-NgeT8HL/view?usp=drive_link" alt="Watch the video" width="600">
+  </a>
+</p>
 ---
 
 **📂 Repository Contents & Task Details**
