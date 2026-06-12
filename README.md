@@ -33,7 +33,7 @@
 [![Watch the video](https://youtu.be/-k8ITGoXQy0)]
 <p align="center">
   <a href="https://youtu.be/-k8ITGoXQy0">
-    <img src="https://drive.google.com/file/d/1Nfkp8MfjhuFtPRaIeC7mX1Zc-NgeT8HL/view?usp=drive_link" alt="Watch the video" width="600">
+    <img src="https://github.com/shahidulalam447/SQA-Testing-Portfolio/blob/master/sqa%20portfolio.png" alt="Watch the video" width="600">
   </a>
 </p>
 ---
