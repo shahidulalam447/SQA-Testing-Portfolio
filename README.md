@@ -30,13 +30,13 @@
 * **Automation:** Generative AI-based tools like **TestRigor**.
 * **Documentation:** Structured PDF Reporting & Excel**.**
 
-[![Watch the video](https://youtu.be/-k8ITGoXQy0)]
+**Watch the video by click:**
 <p align="center">
   <a href="https://youtu.be/-k8ITGoXQy0">
     <img src="https://github.com/shahidulalam447/SQA-Testing-Portfolio/blob/master/sqa%20portfolio.png" alt="Watch the video" width="600">
   </a>
 </p>
----
+
 
 **📂 Repository Contents & Task Details**
 
